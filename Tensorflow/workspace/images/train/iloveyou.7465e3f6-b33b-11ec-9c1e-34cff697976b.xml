@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveyou.7465e3f6-b33b-11ec-9c1e-34cff697976b.jpg</filename>
+	<path>C:\Users\gupta\Desktop\Python projects\Sign Language Interpreter\Tensorflow\workspace\images\collectedimages\iloveyou.7465e3f6-b33b-11ec-9c1e-34cff697976b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I love you</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>1</ymin>
+			<xmax>448</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
